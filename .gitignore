@@ -39,3 +39,29 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Sensitive configs
+*.pem
+*.key
+*.crt
+*.p12
+secrets/
+credentials/
+
+# IDE/OS files
+.DS_Store
+*.log
+node_modules/
+.vscode/
+.idea/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
