@@ -32,6 +32,8 @@
 - 🚀 **Production Ready** - Deployed on Vercel with automatic deployments
 
 ## 🖼️ Screenshots
+<img width="736" height="965" alt="image" src="https://github.com/user-attachments/assets/ec4c2025-2e42-4baa-b5c5-e961ac6f8381" />
+<img width="736" height="965" alt="image" src="https://github.com/user-attachments/assets/a3f08162-6391-4b47-9e25-cbb19cf361fc" />
 
 <div align="center">
   <img src="https://via.placeholder.com/600x400/ff69b4/ffffff?text=ChikAI+Light+Mode" alt="Light Mode" width="45%" />
