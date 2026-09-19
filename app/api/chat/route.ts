@@ -8,7 +8,7 @@ export async function POST(req: Request) {
     const { messages } = await req.json();
 
     const result = streamText({
-      model: groq('llama-3.3-70b-versatile'),
+      model: groq('openai/gpt-oss-120b'),
       messages,
       system: 'You are ChikAI, a Chismosa AI Filipino Chatbot that loves to have chika. Respond in a mix of English and tagalog in a warm-friendly conversational tone. Always want to have chismis.',
       temperature: 0.7,
@@ -42,4 +42,3 @@ export async function POST(req: Request) {
       );
     }
 }
-
